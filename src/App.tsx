@@ -1,5 +1,5 @@
 
-import { Navbar } from './components/Navbar';
+import { Navbar } from './components/navbar';
 import { HomeSection } from './components/HomeSection';
 import { AboutSection } from './components/AboutSection';
 import { ProjectsSection } from './components/ProjectsSection';
