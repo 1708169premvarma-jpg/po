@@ -69,7 +69,7 @@ export function HomeSection() {
           <motion.a
             whileHover={{ scale: 1.05, boxShadow: '0 0 30px rgba(255,255,255,0.3)' }}
             whileTap={{ scale: 0.95 }}
-            href="/sahithi resume .pdf"
+            href="/sahithi%20resume%20.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-4 bg-white text-black rounded-full flex items-center gap-3 transition-all cursor-pointer"
@@ -103,7 +103,7 @@ export function HomeSection() {
             </p>
             <div className="flex gap-4">
               <a
-                href="/MY PERSONAL REUME .pdf"
+                href="/MY%20PERSONAL%20REUME%20.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex-1 px-6 py-3 bg-white text-black rounded-full hover:bg-white/90 transition-colors text-center"
