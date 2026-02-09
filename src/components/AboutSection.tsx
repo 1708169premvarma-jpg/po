@@ -23,6 +23,7 @@ export function AboutSection() {
 
   return (
     <motion.section
+      id="styling"
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       exit={{ opacity: 0 }}
