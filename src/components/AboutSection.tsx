@@ -4,19 +4,19 @@ import { Sparkles } from 'lucide-react';
 export function AboutSection() {
   const fashionPhotos = [
     {
-      url: 'Screenshot 2026-02-09 004457.png',
+      url: '/Screenshot 2026-02-09 004457.png',
       title: ''
     },
     {
-      url: 'Screenshot 2026-02-09 004649.png',
+      url: '/Screenshot 2026-02-09 004649.png',
       title: ''
     },
     {
-      url: 'Screenshot 2026-02-09 004704.png',
+      url: '/Screenshot 2026-02-09 004704.png',
       title: ''
     },
     {
-      url: 'Screenshot 2026-02-09 004718.png',
+      url: '/Screenshot 2026-02-09 004718.png',
       title: ''
     }
   ];
